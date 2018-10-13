@@ -2,8 +2,9 @@ body, html {
     background-color: #FFEFD5;
 }
 
-.container {
+.container-fluid {
     background-color: #FFEFD5;
+    
 }
 
 .text {
